@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
- * main - is the entry point for the program.
+ * main - Entry point
  *
- * return: zero if no error, non-zero value if errors.
+ * Return: Always 0 (Success)
  */
 
 int main(void)
-
 {
 
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
