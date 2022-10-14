@@ -5,7 +5,8 @@
  * return: zero if no error, non-zero value if errors.
  */
 
-int main()
+int main(void)
+
 {
 
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
